@@ -60,6 +60,10 @@
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinyadav107&theme=react&hide_border=true&background=0D1117&stroke=0000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" /> </div>
 
 ---
+## 📊 *Activity Graph*
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinyadav107&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/> </div> 
+---
+
 ## 📊 LeetCode & Problem Solving Excellence  
 
 <div align="center">
@@ -137,5 +141,4 @@ Noida Institute of Engineering and Technology, Greater Noida
 
 ---
 
-## 📊 *Activity Graph*
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinyadav107&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/> </div> 
+
