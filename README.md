@@ -60,43 +60,59 @@
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinyadav107&theme=react&hide_border=true&background=0D1117&stroke=0000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" /> </div>
 
 ---
-
-## 🏆 *Featured Projects*
+## 📊 LeetCode & Problem Solving Excellence  
 
 <div align="center">
-🛒 LIBAS - E-commerce Platform
 
-
-🔧 Tech: MERN | Razorpay | JWT | OAuth
-✨ Features: Product Search | Sorting | Secure Payments | Admin Dashboard
-📈 Impact: Efficient handling of 150+ products & faster load times
-
-💬 Real-Time Chat Application
-
-
-🔧 Tech: React.js | Node.js | Socket.io | JWT | Bcrypt
-✨ Features: Real-time messaging | AI Chatbot | Secure Authentication
-📈 Impact: Seamless cross-device chat experience
-
-</div>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NitinYaduvanshi?theme=dark&ext=contest)](https://leetcode.com/NitinYaduvanshi)
 
 ---
 
-## 🎯 *Problem Solving Excellence*
+### 🧠 Algorithm Mastery  
 
 <div align="center">
-💪 Competitive Programming
-Platform	Problems Solved	Rating	Expertise
-🟠 LeetCode	550+ Problems with Contest Rating	1400+	Intermediate
-🧠 Algorithm Mastery
 
-✅ Dynamic Programming ✅ Tree Traversals
-✅ Binary Search ✅ Sorting & Searching ✅ String Algorithms
-✅ Backtracking ✅ Greedy Algorithms ✅ Problem Solving
+| ![DP](https://img.shields.io/badge/Dynamic_Programming-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white) | ![Trees](https://img.shields.io/badge/Tree_Traversals-228B22?style=for-the-badge&logo=treehouse&logoColor=white) |
+|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| ![Binary Search](https://img.shields.io/badge/Binary_Search-1E90FF?style=for-the-badge&logo=target&logoColor=white) | ![Sorting](https://img.shields.io/badge/Sorting_&_Searching-FF8C00?style=for-the-badge&logo=hackerrank&logoColor=white) |
+| ![Strings](https://img.shields.io/badge/String_Algorithms-FF1493?style=for-the-badge&logo=bookstack&logoColor=white) | ![Backtracking](https://img.shields.io/badge/Backtracking-FFD700?style=for-the-badge&logo=retropie&logoColor=black) |
+| ![Greedy](https://img.shields.io/badge/Greedy_Algorithms-DC143C?style=for-the-badge&logo=opsgenie&logoColor=white) | ![Problem Solving](https://img.shields.io/badge/Problem_Solving-00CED1?style=for-the-badge&logo=codewars&logoColor=white) |
 
 </div>
 
+
+
+</div>
+
+
+
+
 ---
+## 🏆 Featured Projects  
+
+<div align="center">
+
+### 🛒 LIBAS - E-commerce Platform  
+[![E-commerce](https://img.shields.io/badge/🛒-E_commerce_Platform-blue?style=for-the-badge)](https://ecommercefb.onrender.com/)  
+
+🔧 **Tech:** MERN | Razorpay | JWT | OAuth  
+✨ **Features:** Product Search | Sorting | Secure Payments | Admin Dashboard  
+📈 **Impact:** Efficient handling of 150+ products & faster load times  
+
+---
+
+### 💬 Real-Time Chat Application  
+[![Chat App](https://img.shields.io/badge/💬-Chat_Application-green?style=for-the-badge)](https://chatappfb-1.onrender.com/)  
+
+🔧 **Tech:** React.js | Node.js | Socket.io | JWT | Bcrypt  
+✨ **Features:** Real-time messaging | AI Chatbot | Secure Authentication  
+📈 **Impact:** Seamless cross-device chat experience  
+
+</div>
+
+
+---
+
 
 <div align="center">
 
