@@ -2,7 +2,7 @@
 
 # 💫 NITIN YADAV
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Problem+Solving+Enthusiast;550%2B+Coding+Challenges+Solved;Passionate+Learner+%26+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Problem+Solving+Enthusiast;600%2B+Coding+Challenges+Solved;Passionate+Learner+%26+Builder" alt="Typing SVG" />
 </div>
 
 ---
