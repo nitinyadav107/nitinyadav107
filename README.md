@@ -57,7 +57,12 @@
 
 ## 📊 *GitHub Analytics*
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinyadav107&theme=react&hide_border=true&background=0D1117&stroke=0000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" /> </div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=nitinyadav107&theme=react&hide_border=true&background=0D1117&stroke=000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 ## 📊 *Activity Graph*
