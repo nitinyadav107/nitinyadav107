@@ -52,18 +52,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 </div>
-
----
-
-## 📊 *GitHub Analytics*
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=nitinyadav107&theme=react&hide_border=true&background=0D1117&stroke=000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
-    alt="GitHub Streak"
-  />
-</p>
-
 ---
 ## 📊 *Activity Graph*
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinyadav107&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/> </div> 
