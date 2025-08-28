@@ -52,9 +52,17 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 </div>
+
 ---
-## 📊 *Activity Graph*
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinyadav107&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/> </div> 
+
+## 📊 Activity Graph
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nitinyadav107&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" 
+    alt="Activity Graph" 
+  />
+</p>
+
 ---
 
 ## 📊 LeetCode & Problem Solving Excellence  
